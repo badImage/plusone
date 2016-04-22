@@ -1,0 +1,19 @@
+Projektname: +one ("Plus one")
+Idee: Erkunde eine fremde Stadt, besuche eine Veranstaltung, erlebe Momente mit +1, und erfreue Dich an Gleichgesinnten und neuen Freunden.
+
+Catchphrases:	-> "+ 1! Discover the world together, broaden your minds" <-
+				"Plus one! "
+				"Travel alone?  Make the most of it!"
+
+Kurzbeschreibung: Lust auf einen Städtetrip? Karten für das angesagte Open Air Event aber keine Begleitung? Vermisst Du Gleichgesinnte? Das Entdecken von Land und Leuten, Kultur und Kulturen macht so richtig Spaß wenn man sie gemeinsam erfahren und teilen kann. Mit +1 kannst Du vor der Reise oder am Ziel, für eine Veranstaltung oder eine ausschweifende Diskussion am Lagerfeuer Gleichgesinnte finden, für "kurz oder lang".
+
+Link zu GitHub: https://github.com/badImage/plusone
+Link zu Trello: https://trello.com/plusone9
+
+"Konkurrenzen": Travelbuddy usw., die meisten sind jedoch eher forenbasiert.
+
+Alternativen:	Let's Discover!
+				Join my travel!
+				
+
+
